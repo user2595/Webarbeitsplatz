@@ -9,8 +9,9 @@ Der Webarbeitsplatz ist eine integrierte Plattform, die verschiedene kollaborati
 - **Nextcloud**: Eine Plattform für Dateispeicherung und Zusammenarbeit.
 - **Jitsi**: Eine Plattform für Videokonferenzen.
 - **Grafana**: Eine Open-Source-Monitoring-Lösung.
+- **Ambassador** Ein Open-Source-API-Gateway, das LDAP-kompatibel
 - **Keycloak**: Eine Open-Source-Identity-and-Access-Management-Lösung.
-- **Istio**: Ein Service Mesh zur Verwaltung von Diensten und Kommunikation.
+- **Istio**:  Ein Service Mesh zur Verwaltung von Diensten und Kommunikation.
 
 ## Lösungskonzept
 
